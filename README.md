@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100038431577875&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammed M Sbeata" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammad_sbeata?igshid=ZGUzMzM3NWJiOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed m sbeata" height="30" width="40" /></a>
+<a href="https://wa.me/+972595823550" target="blank"><img align="center" src="https://mediaaws.almasryalyoum.com/news/large/2020/03/18/1093402_0.jfif" alt="mohammed m sbeata" height="30" width="40" /></a>
+<a href="https://t.me/Mohammed_31_10" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q" alt="mohammed m sbeata" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
