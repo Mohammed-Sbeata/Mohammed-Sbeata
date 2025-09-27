@@ -16,7 +16,8 @@
 - 💻 Full-Stack Developer skilled in building scalable apps with **Node.js, Next.js, and React.js**.  
 - 🌍 Participant in **Hack for Gaza 2025** (UK–Palestine collaboration) → Built *MediBridge*, a healthcare platform connecting Gaza doctors with international experts.  
 - 🚀 Experienced in **UX design, databases, authentication, and real-time systems**.  
-- 🌱 Currently exploring **TypeScript, Socket.io, and advanced system design**.  
+- 🌱 Currently exploring **TypeScript, Socket.io, and advanced system design**. 
+- 🌱 I’m currently learning **Dart & Flutter** . 
 - 📫 Reach me at: **mohammedsbeata@gmail.com**  
 
 ---
