@@ -17,7 +17,7 @@
 - 🌍 Participant in **Hack for Gaza 2025** (UK–Palestine collaboration) → Built *MediBridge*, a healthcare platform connecting Gaza doctors with international experts.  
 - 🚀 Experienced in **UX design, databases, authentication, and real-time systems**.  
 - 🌱 Currently exploring **TypeScript, Socket.io, and advanced system design**. 
-- 🌱 I’m currently learning **Dart & Flutter** . 
+- 🌱 I’m currently revision **Dart & Flutter** . 
 - 📫 Reach me at: **mohammedsbeata@gmail.com**  
 
 ---
